@@ -19,7 +19,7 @@
 	<a href="/pr01/front/?cmd=sy">선영</a>&nbsp;
 	<a href="/pr01/front/?cmd=sh">선하</a>&nbsp;
 	
-
+	asdfasdf
 </div>
 
 </body>
